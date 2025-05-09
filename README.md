@@ -24,7 +24,7 @@
 
 ## Notes
 1. Working in Multiplayer as of 1.0
-2. Works on mod spawn and native POI spawns.
+2. Works on mod spawned brush items and native POI spawns.
 
 ## Support
 
