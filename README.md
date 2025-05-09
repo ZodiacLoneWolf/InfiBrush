@@ -1,6 +1,6 @@
 # InfiBrush! 🖌️♾️
 
-[![Mod Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/YourUsername/InfiBrush)
+[![Mod Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/ZodiacLoneWolf/InfiBrush)
 [![UE4SS Version](https://img.shields.io/badge/UE4SS-experimental-blue)](https://github.com/UE4SS/UE4SS)
 
 ## Description
